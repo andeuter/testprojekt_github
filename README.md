@@ -3,7 +3,7 @@ Dient zum **Testen** von *Github*
 
 ## Todo-Liste
 - [x] README.md initialisieren
-- [ ]
+- [x] Fehler beseitigt
 - [ ]
 - [ ]
 - [ ]
